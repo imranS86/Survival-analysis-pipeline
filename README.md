@@ -3,7 +3,7 @@ This repository presents a survival analysis pipeline applied to RNA-seq data fr
 
 ## 🔗 Interactive Report
 
-👉 [View the full interactive HTML report](https://imrans86.github.io/surv/](https://imrans86.github.io/Survival-analysis-pipeline/)
+👉 [View the full interactive HTML report](https://imrans86.github.io/Survival-analysis-pipeline/)
 
 ## The report includes:
 
