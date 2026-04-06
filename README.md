@@ -13,7 +13,3 @@ This repository presents a survival analysis pipeline applied to RNA-seq data fr
 - Risk score model construction  
 - Model evaluation plots (Kaplan–Meier and ROC curves)  
 - Fully reproducible analytical workflow  
-
-## ℹ️ Note
-
-GitHub does not render interactive HTML files within the repository viewer. To explore the full report (including interactive plots and formatted outputs), please use the link above.
